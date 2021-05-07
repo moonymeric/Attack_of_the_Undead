@@ -1,3 +1,8 @@
+Version 1.3.2 - - Date 2021-05-07 - - Wesnoth 1.14.15 - - Maintainer MoonyDragon
+ * reduced global experience requirements on EASY
+ * reduced undead guardian level on EASY in S5
+ * made some minor improvements to maps in S1, S2 and S3
+
 Version 1.3.1 - - Date 2021-04-30 - - Wesnoth 1.14.15 - - Maintainer MoonyDragon
  * changed difficulty icons
  * changed Spearmen recruits to Cavalrymen in S3, S4 and S5
