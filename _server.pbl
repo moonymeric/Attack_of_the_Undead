@@ -2,7 +2,7 @@
 title= _"Attack of the Undead"
 type="campaign"
 icon="units/human-magi/red-mage.png~RC(magenta>red)"
-version="1.3.2"
+version="1.3.3"
 author="wsultzbach"
 passphrase=
 email=
