@@ -1,54 +1,63 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-09 13:44 UTC\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2008-06-21 03:11+0200\n"
+"Last-Translator: Mikko Nikkilä <miccoh@gmail.com>\n"
+"Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [scenario]: id=4_Test_of_Darkness
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:5
 msgid "Test of Darkness"
-msgstr ""
+msgstr "Pimeyden testi"
 
 #. [unit]: type=Revenant, id=Skal-Sol
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:64
 msgid "Skal-Sol"
-msgstr ""
+msgstr "Skal-Sol"
 
 #. [unit]: type=Dark Sorcerer, id=Muff Ter
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:74
 msgid "Muff Ter"
-msgstr ""
+msgstr "Muff Ter"
 
 #. [message]: speaker=Muff Ter
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
-msgid "Look, there trying to get through. Our master told us not to let them past."
+msgid ""
+"Look, there trying to get through. Our master told us not to let them past."
 msgstr ""
+"Katso, yrittävät päästä tuolta läpi. Mestarimme käski, ettemme päästäisi "
+"heitä."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:91
 msgid "There are undead all about!"
-msgstr ""
+msgstr "Epäkuolleita on joka puolella!"
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:96
-msgid "Yes, but we must get through here nonetheless. You should surround yourself with units to protect yourself."
+msgid ""
+"Yes, but we must get through here nonetheless. You should surround yourself "
+"with units to protect yourself."
 msgstr ""
+"Niin on, mutta meidän täytyy päästä tästä läpi joka tapauksessa. Sinun "
+"täytyisi ympäröidä itsesi yksiköillä suojellaksesi itseäsi."
 
 #. [objective]: condition=win                    
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:103
 msgid "Move Ryan to the signpost in the north"
-msgstr ""
+msgstr "Vie Ryan tienviitalle pohjoisessa."
 
 #. [objective]: condition=win
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:108
 msgid "Defeat the enemy leaders (Bonus)"
-msgstr ""
+msgstr "Kukista vihollisjohtajat (bonus)"
 
 #. [objective]: condition=lose
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:113
@@ -56,29 +65,32 @@ msgstr ""
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:100
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:109
 msgid "Death of Ryan"
-msgstr ""
+msgstr "Ryanin kuolema"
 
 #. [objective]: condition=lose
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:118
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:107
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:114
 msgid "Death of Ben"
-msgstr ""
+msgstr "Benin kuolema"
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:138
 msgid "We've gotten through."
-msgstr ""
+msgstr "Olemme päässeet läpi."
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:143
-msgid "Good, the valley that the undead are coming from is only a little ways from here."
+msgid ""
+"Good, the valley that the undead are coming from is only a little ways from "
+"here."
 msgstr ""
+"Hyvä. Laakso, josta epäkuolleet tulevat, on enää lyhyen matkan päästä täältä."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
 msgid "We have defeated them, now let us pass through here."
-msgstr ""
+msgstr "Olemme kukistaneet ne. Päästä meidät nyt menemään tästä."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:175
@@ -86,243 +98,273 @@ msgstr ""
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:130
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:185
 msgid "All is lost, the undead will destroy us!"
-msgstr ""
+msgstr "Kaikki on mennyttä! Epäkuolleet tuhoavat meidät!"
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:192
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:174
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:202
 msgid "I will never see my village again!"
-msgstr ""
+msgstr "En koskaan enää näe kylääni!"
 
 #. [message]: speaker=Muff Ter
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:209
 msgid "I have failed!"
-msgstr ""
+msgstr "Olen epäonnistunut!"
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:218
 msgid "Now we will never get through..."
-msgstr ""
+msgstr "Nyt emme ikinä pääse läpi..."
 
 #. [scenario]: id=5_The_Last_Straw
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:5
 msgid "The Last Straw"
-msgstr ""
+msgstr "Viimeinen oljenkorsi"
 
 #. [unit]: type=Necromancer, id=Muff Jal
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:54
 msgid "Muff Jal"
-msgstr ""
+msgstr "Muff Jal"
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:80
 msgid "This is it."
-msgstr ""
+msgstr "Tämä se on."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:85
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:121
 msgid "Deven?"
-msgstr ""
+msgstr "Deven?"
 
 #. [message]: speaker=Muff Jal
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:90
-msgid "That is no longer my name. I am more powerful then you could ever become. I am the master. Muhhhaaa! We will crush you!"
+msgid ""
+"That is no longer my name. I am more powerful then you could ever become. I "
+"am the master. Muhhhaaa! We will crush you!"
 msgstr ""
+"Tuo ei enää ole nimeni. Olen voimakkaampi kuin sinusta koskaan voisi tulla. "
+"Olen mestari. Muhahahaa! Nitistämme sinut!"
 
 #. [objective]: condition=win                    
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:97
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:104
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Kukista vihollisjohtaja"
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:128
 msgid "Deven? What happened?"
-msgstr ""
+msgstr "Deven? Mitä tapahtui?"
 
 #. [message]: speaker=narrator
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:134
 msgid "And so passes Deven, once a mage."
-msgstr ""
+msgstr "Ja niin lähtee Deven, joka kerran oli velho."
 
 #. [message]: speaker=narrator
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:140
-msgid "And he stood as a testament for that group of mages of what happens when one meddles with the dark arts..."
+msgid ""
+"And he stood as a testament for that group of mages of what happens when one "
+"meddles with the dark arts..."
 msgstr ""
+"Ja hän on varoittavana esimerkkinä velhoille siitä, mitä tapahtuu kun "
+"sotkeutuu pimeyden saloihin..."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:187
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:215
 msgid "Noooo, they have overrun us!"
-msgstr ""
+msgstr "Eiiii, he ovat lyöneet meidät!"
 
 #. [scenario]: id=2_Attack_of_the_Undead
 #. [campaign]: id=Attack_Of_The_Undead
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:5
 #: Attack_of_the_Undead/_main.cfg:12
 msgid "Attack of the Undead"
-msgstr ""
+msgstr "Epäkuolleiden hyökkäys"
 
 #. [part]
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:23
-msgid "Two months after Deven's mysterious disappearance, undead hordes were sighted coming towards the mage city..."
+msgid ""
+"Two months after Deven's mysterious disappearance, undead hordes were "
+"sighted coming towards the mage city..."
 msgstr ""
+"Kaksi kuukautta Devenin salaperäisen katoamisen jälkeen epäkuolleiden "
+"joukkojen nähtiin tulevan kohti velhokaupunkia..."
 
 #. [unit]: type=Soulless, id=Marth
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:66
 msgid "Marth"
-msgstr ""
+msgstr "Marth"
 
 #. [unit]: type=Bone Shooter, id=Skal-Ka
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:76
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:80
 msgid "Skal-Ka"
-msgstr ""
+msgstr "Skal-Ka"
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:88
-msgid "Look, Undead are attacking from the south, I must hold them off for as long as I can."
+msgid ""
+"Look, Undead are attacking from the south, I must hold them off for as long "
+"as I can."
 msgstr ""
+"Katso, epäkuolleet hyökkävät etelästä. Minun täytyy pidätellä heitä niin "
+"kauan kuin voin."
 
 #. [objective]: condition=win                    
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:95
 msgid "Resist until the end of the turns"
-msgstr ""
+msgstr "Selviydy vuorojen loppuun asti"
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:113
-msgid "We must escape, there is a village to the north, perhaps they can help us."
+msgid ""
+"We must escape, there is a village to the north, perhaps they can help us."
 msgstr ""
+"Meidän on paettava. Täältä pohjoiseen on kylä. Ehkä kyläläiset voisivat "
+"auttaa meitä."
 
 #. [scenario]: id=3_Help_from_the_Villagers
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:5
 msgid "Help From the Villagers"
-msgstr ""
+msgstr "Kyläläisten apu"
 
 #. [part]
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:23
-msgid "Ryan and the other mages headed towards the village in the north with the undead on pursuit."
+msgid ""
+"Ryan and the other mages headed towards the village in the north with the "
+"undead on pursuit."
 msgstr ""
+"Ryan ja muut velhot suuntasivat kohti pohjoista kylää epäkuolleiden takaa-"
+"ajamina."
 
 #. [unit]: type=Swordsman, id=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:70
 msgid "Ben"
-msgstr ""
+msgstr "Ben"
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:92
 msgid "Our home was ransacked by the undead, and now they're following us."
-msgstr ""
+msgstr "Epäkuolleet ryöstivät kotimme ja nyt he seuraavat meitä."
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:97
 msgid "We will help you defeat them."
-msgstr ""
+msgstr "Autamme teitä kukistamaan heidät."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:129
 msgid "They're gone."
-msgstr ""
+msgstr "He ovat poissa."
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:134
-msgid "No, the undead have attacked here as well, and they seem to be coming from the north."
+msgid ""
+"No, the undead have attacked here as well, and they seem to be coming from "
+"the north."
 msgstr ""
+"Ei, epäkuolleet ovat hyökänneet myös tänne, ja vaikuttaa että he olisivat "
+"tulleet pohjoisesta."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:139
 msgid "For how long have they been attacking?"
-msgstr ""
+msgstr "Milloin hyökkäykset alkoivat?"
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:144
 msgid "Just recently."
-msgstr ""
+msgstr "Vasta lähiaikoina."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:149
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:154
 msgid "We will go north with you to defeat them."
-msgstr ""
+msgstr "Me lähdemme kanssasi pohjoiseen kukistamaan heidät."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:159
 msgid "Thank you."
-msgstr ""
+msgstr "Kiitos."
 
 #. [scenario]: id=1_The_Student
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:5
 msgid "The Student"
-msgstr ""
+msgstr "Opiskelija"
 
 #. [part]
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:23
-msgid "In a remote part of Wesnoth, there is a mage city where young mages learn away from the outside world."
+msgid ""
+"In a remote part of Wesnoth, there is a mage city where young mages learn "
+"away from the outside world."
 msgstr ""
+"Eräässä Wesnothin syrjäisessä kolkassa sijaitsee velhokaupunki, jossa nuoret "
+"velhot opiskelevat poissa ulkopuolisesta maailmasta."
 
 #. [part]
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:28
 msgid "One day, two students, Ryan and Deven.."
-msgstr ""
+msgstr "Eräänä päivänä kaksi opiskelijaa, Ryan ja Deven..."
 
 #. [unit]: type=Mage, id=Ryan
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:50
 msgid "Ryan"
-msgstr ""
+msgstr "Ryan"
 
 #. [unit]: type=Dark Adept, id=Deven
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:60
 msgid "Deven"
-msgstr ""
+msgstr "Deven"
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:72
 msgid "Hello Deven."
-msgstr ""
+msgstr "Terve Deven."
 
 #. [message]: speaker=Deven
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:77
 msgid "Hehehehee..."
-msgstr ""
+msgstr "Hehehehee..."
 
 #. [message]: speaker=narrator
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:116
 msgid "Suddenly Deven vanished."
-msgstr ""
+msgstr "Äkkiä Deven katosi."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:126
 msgid "What happened?"
-msgstr ""
+msgstr "Mitä tapahtui?"
 
 #. [campaign]: id=Attack_Of_The_Undead
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "AotU"
-msgstr ""
+msgstr "EH"
 
 #. [campaign]: id=Attack_Of_The_Undead
 #: Attack_of_the_Undead/_main.cfg:16
 msgid "Play as a mage to protect your city from the undead."
-msgstr ""
+msgstr "Pelaa maagina suojellaksesi kaupunkiasi epäkuolleilta."
 
 #. [campaign]: id=Attack_Of_The_Undead
 #: Attack_of_the_Undead/_main.cfg:17
 msgid "(Novice level, 4 scenarios.)"
-msgstr ""
+msgstr "(Aloittelijataso, 4 skenaariota.)"
 
 #. [about]
 #: Attack_of_the_Undead/about.cfg:3
 msgid "Campaign Design"
-msgstr ""
+msgstr "Kampanjasuunnittelu"
 
 #. [about]
 #: Attack_of_the_Undead/about.cfg:9
 msgid "Translation"
-msgstr ""
-
+msgstr "Käännös"
