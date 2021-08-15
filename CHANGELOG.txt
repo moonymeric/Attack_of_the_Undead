@@ -1,3 +1,7 @@
+Version 1.3.4 - - Date 2021-08-15 - - Wesnoth 1.14.15 - - Maintainer MoonyDragon
+ * added holy water to all maps
+ * added traits to all human leaders
+
 Version 1.3.3 - - Date 2021-05-09 - - Wesnoth 1.14.15 - - Maintainer MoonyDragon
  * imported missing .po files from wescamp and updated all translations
  * rearranged some files and filenames
