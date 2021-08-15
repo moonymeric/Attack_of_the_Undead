@@ -173,7 +173,7 @@ msgstr ""
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:187
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:215
 msgid "Noooo, they have overrun us!"
-msgstr ""
+msgstr "Neee, ze hebben ons overrompeld!"
 
 #. [scenario]: id=2_Attack_of_the_Undead
 #. [campaign]: id=Attack_Of_The_Undead
