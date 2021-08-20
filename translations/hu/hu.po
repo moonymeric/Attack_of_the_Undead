@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-05-09 13:44 UTC\n"
+"POT-Creation-Date: 2021-08-20 19:58 UTC\n"
 "PO-Revision-Date: 2008-05-01 08:52+0100\n"
 "Last-Translator: Fábián Balázs <nermal92@freemail.hu>\n"
 "Language-Team: Wesnoth Hungarian Translation Team <NONE>\n"
@@ -26,29 +26,29 @@ msgid "Test of Darkness"
 msgstr "A sötétség próbája"
 
 #. [unit]: type=Revenant, id=Skal-Sol
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:64
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:69
 msgid "Skal-Sol"
 msgstr "Skal-Sol"
 
 #. [unit]: type=Dark Sorcerer, id=Muff Ter
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:74
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:79
 msgid "Muff Ter"
 msgstr "Muff Ter"
 
 #. [message]: speaker=Muff Ter
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:96
 msgid ""
 "Look, there trying to get through. Our master told us not to let them past."
 msgstr ""
 "Nézd ott akarnak átjutni. A mester azt mondta, nem engedhetjük őket át."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:91
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:101
 msgid "There are undead all about!"
 msgstr "Mindenfelé élőholtak vannak!"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:96
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:106
 msgid ""
 "Yes, but we must get through here nonetheless. You should surround yourself "
 "with units to protect yourself."
@@ -56,70 +56,70 @@ msgstr ""
 "Igen, de akkor is át kell jutnunk. Körbeveheted magad az egységeiddel, hogy "
 "némi védelemhez juss."
 
-#. [objective]: condition=win                    
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:103
+#. [objective]: condition=win
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:113
 msgid "Move Ryan to the signpost in the north"
 msgstr "Elvezeted Ryant az északi jelzőtábláig"
 
 #. [objective]: condition=win
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:108
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:118
 msgid "Defeat the enemy leaders (Bonus)"
 msgstr "Legyőződ az ellenséges vezéreket (bónusz)"
 
 #. [objective]: condition=lose
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:113
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:102
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:100
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:109
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:123
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:111
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:107
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:120
 msgid "Death of Ryan"
 msgstr "Ryan elesik"
 
 #. [objective]: condition=lose
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:118
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:107
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:114
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:128
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:116
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:125
 msgid "Death of Ben"
 msgstr "Ben elesik"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:138
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:148
 msgid "We've gotten through."
 msgstr "Átjutottunk."
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:143
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:153
 msgid ""
 "Good, the valley that the undead are coming from is only a little ways from "
 "here."
 msgstr "Jó, a völgy ahonnét az élőholtak jönnek már nincs túl messze innen."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:167
 msgid "We have defeated them, now let us pass through here."
 msgstr "Legyőztük őket, most már átmehetünk itt."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:175
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:157
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:130
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:185
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:185
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:166
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:137
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:196
 msgid "All is lost, the undead will destroy us!"
 msgstr "Minden elveszett, az élőholtak elpusztítanak minket!"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:192
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:174
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:202
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:202
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:183
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:213
 msgid "I will never see my village again!"
 msgstr "Már sohase fogom újra látni a falumat!"
 
 #. [message]: speaker=Muff Ter
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:209
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:219
 msgid "I have failed!"
 msgstr "Elbuktam!"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:218
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:228
 msgid "Now we will never get through..."
 msgstr "Most már soha nem fogunk átjutni..."
 
@@ -129,23 +129,23 @@ msgid "The Last Straw"
 msgstr "Az utolsó szalmaszál"
 
 #. [unit]: type=Necromancer, id=Muff Jal
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:54
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:58
 msgid "Muff Jal"
 msgstr "Muff Jal"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:80
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:89
 msgid "This is it."
 msgstr "Ez az itt."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:85
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:121
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:94
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:131
 msgid "Deven?"
 msgstr "Deven?"
 
 #. [message]: speaker=Muff Jal
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:90
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:99
 msgid ""
 "That is no longer my name. I am more powerful then you could ever become. I "
 "am the master. Muhhhaaa! We will crush you!"
@@ -153,24 +153,24 @@ msgstr ""
 "Ez többé nem az én nevem. A hatalmam mára sokkal nagyobb, mint amennyi neked "
 "valaha lehet. A mester én vagyok. Hahaha! El fogunk pusztítani titeket!"
 
-#. [objective]: condition=win                    
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:97
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:104
+#. [objective]: condition=win
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:106
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
 msgid "Defeat the enemy leader"
 msgstr "legyőzöd az ellenséges vezért"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:128
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:137
 msgid "Deven? What happened?"
 msgstr "Deven? Mi történt veled?"
 
 #. [message]: speaker=narrator
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:134
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:143
 msgid "And so passes Deven, once a mage."
 msgstr "Így aztán Deven, egy újabb mágus átállt."
 
 #. [message]: speaker=narrator
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:140
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:149
 msgid ""
 "And he stood as a testament for that group of mages of what happens when one "
 "meddles with the dark arts..."
@@ -179,8 +179,8 @@ msgstr ""
 "akarták mi történik, ha egyikük is a sötét erőkkel vacakol..."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:187
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:215
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:196
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:226
 msgid "Noooo, they have overrun us!"
 msgstr "Neeeem, sikerült fölénk kerekedniük!"
 
@@ -201,18 +201,18 @@ msgstr ""
 "varázslók városa felé..."
 
 #. [unit]: type=Soulless, id=Marth
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:66
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:73
 msgid "Marth"
 msgstr "Marth"
 
 #. [unit]: type=Bone Shooter, id=Skal-Ka
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:76
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:80
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:83
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:91
 msgid "Skal-Ka"
 msgstr "Skal-ka"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:88
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:95
 msgid ""
 "Look, Undead are attacking from the south, I must hold them off for as long "
 "as I can."
@@ -220,13 +220,13 @@ msgstr ""
 "Nézd, élőholak támadnak dél felől, fel kell tartanom őket, addig amíg csak "
 "lehet."
 
-#. [objective]: condition=win                    
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:95
+#. [objective]: condition=win
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:102
 msgid "Resist until the end of the turns"
 msgstr "Kitartasz a körök végéig"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:113
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:120
 msgid ""
 "We must escape, there is a village to the north, perhaps they can help us."
 msgstr ""
@@ -247,27 +247,27 @@ msgstr ""
 "Ryan és más mágusok az északi falu felé indultak, nyomukban az élőholtakkal."
 
 #. [unit]: type=Swordsman, id=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:70
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:76
 msgid "Ben"
 msgstr "Ben"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:92
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:103
 msgid "Our home was ransacked by the undead, and now they're following us."
 msgstr "Az otthonunkat kifosztották az élőholtak, és most a nyomunkban vannak."
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:97
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:108
 msgid "We will help you defeat them."
 msgstr "Segítünk nektek legyőzni őket."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:129
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:140
 msgid "They're gone."
 msgstr "Már jönnek is."
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:134
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:145
 msgid ""
 "No, the undead have attacked here as well, and they seem to be coming from "
 "the north."
@@ -275,27 +275,27 @@ msgstr ""
 "Nem, az élőholtak már itt is támadtak, és úgy tűnik észak felől jöttek."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:139
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:150
 msgid "For how long have they been attacking?"
 msgstr "És mikor támadtak meg benneteket?"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:144
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:155
 msgid "Just recently."
 msgstr "Csak nemrégiben."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:149
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:160
 msgid "Hmmm..."
 msgstr "Hmmm..."
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:154
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:165
 msgid "We will go north with you to defeat them."
 msgstr "Veled megyünk északnak, hogy legyőzzük őket."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:159
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:170
 msgid "Thank you."
 msgstr "Köszönöm."
 
@@ -324,27 +324,27 @@ msgid "Ryan"
 msgstr "Ryan"
 
 #. [unit]: type=Dark Adept, id=Deven
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:60
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:65
 msgid "Deven"
 msgstr "Deven"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:72
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:82
 msgid "Hello Deven."
 msgstr "Szia Deven."
 
 #. [message]: speaker=Deven
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:77
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:87
 msgid "Hehehehee..."
 msgstr "Hehehehee..."
 
 #. [message]: speaker=narrator
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:116
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:126
 msgid "Suddenly Deven vanished."
 msgstr "Majd Deven hirtelen eltűnik."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:126
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:136
 msgid "What happened?"
 msgstr "Mi történt?"
 
@@ -359,9 +359,39 @@ msgid "Play as a mage to protect your city from the undead."
 msgstr "Egy mágussal az élen védd meg a városod a támadó élőholtaktól."
 
 #. [campaign]: id=Attack_Of_The_Undead
-#: Attack_of_the_Undead/_main.cfg:17
+#: Attack_of_the_Undead/_main.cfg:18
 msgid "(Novice level, 4 scenarios.)"
 msgstr "(Kezdő szint, 4 pálya.)"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:20
+msgid "Mage"
+msgstr "Mágus"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:20
+msgid "Easy"
+msgstr "Könnyű"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:21
+msgid "Red Mage"
+msgstr "Vörös mágus"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:21
+msgid "Normal"
+msgstr "Átlagos"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:22
+msgid "Arch Mage"
+msgstr "Varázslómester"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:22
+msgid "Challenging"
+msgstr "Kihívást Jelentő"
 
 #. [about]
 #: Attack_of_the_Undead/about.cfg:3
@@ -369,6 +399,11 @@ msgid "Campaign Design"
 msgstr "Hadjárat tervezés"
 
 #. [about]
-#: Attack_of_the_Undead/about.cfg:9
+#: Attack_of_the_Undead/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Hadjárat karbantartása"
+
+#. [about]
+#: Attack_of_the_Undead/about.cfg:17
 msgid "Translation"
 msgstr "Fordítás"

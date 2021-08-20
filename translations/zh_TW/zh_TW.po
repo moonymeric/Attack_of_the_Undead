@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-05-09 13:44 UTC\n"
+"POT-Creation-Date: 2021-08-20 19:58 UTC\n"
 "PO-Revision-Date: 2008-08-13 01:29+0800\n"
 "Last-Translator: 楊綮銘 <steven2880@gmail.com>\n"
 "Language-Team: none\n"
@@ -17,97 +17,97 @@ msgid "Test of Darkness"
 msgstr "黑暗的試探"
 
 #. [unit]: type=Revenant, id=Skal-Sol
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:64
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:69
 msgid "Skal-Sol"
 msgstr "斯卡爾-索爾"
 
 #. [unit]: type=Dark Sorcerer, id=Muff Ter
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:74
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:79
 msgid "Muff Ter"
 msgstr "姆夫 特爾"
 
 #. [message]: speaker=Muff Ter
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:96
 msgid ""
 "Look, there trying to get through. Our master told us not to let them past."
 msgstr "看，他們想通過，讓我們攔住他們。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:91
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:101
 msgid "There are undead all about!"
 msgstr "這兒四周全是不死族！"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:96
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:106
 msgid ""
 "Yes, but we must get through here nonetheless. You should surround yourself "
 "with units to protect yourself."
 msgstr "是的，盡管如此我們仍然必須通過這裡。可以讓士兵包著你過去。"
 
-#. [objective]: condition=win                    
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:103
+#. [objective]: condition=win
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:113
 msgid "Move Ryan to the signpost in the north"
 msgstr "讓瑞恩到達北部路標"
 
 #. [objective]: condition=win
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:108
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:118
 msgid "Defeat the enemy leaders (Bonus)"
 msgstr "擊敗所有敵人首領（附加獎勵）"
 
 #. [objective]: condition=lose
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:113
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:102
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:100
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:109
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:123
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:111
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:107
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:120
 msgid "Death of Ryan"
 msgstr "瑞恩死亡"
 
 #. [objective]: condition=lose
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:118
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:107
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:114
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:128
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:116
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:125
 msgid "Death of Ben"
 msgstr "班死亡"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:138
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:148
 msgid "We've gotten through."
 msgstr "我們終於過來了。"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:143
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:153
 msgid ""
 "Good, the valley that the undead are coming from is only a little ways from "
 "here."
 msgstr "很好，不死族要來這兒的話這只有山谷這一條小路。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:167
 msgid "We have defeated them, now let us pass through here."
 msgstr "我們已經擊敗它們了，趕緊通過這裡吧。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:175
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:157
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:130
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:185
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:185
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:166
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:137
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:196
 msgid "All is lost, the undead will destroy us!"
 msgstr "全都淪陷了，不死族會殺了我們！"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:192
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:174
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:202
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:202
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:183
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:213
 msgid "I will never see my village again!"
 msgstr "我以後再也無法回不到我的家園了。"
 
 #. [message]: speaker=Muff Ter
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:209
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:219
 msgid "I have failed!"
 msgstr "我失敗了！"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:218
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:228
 msgid "Now we will never get through..."
 msgstr "我們過不去了......"
 
@@ -117,23 +117,23 @@ msgid "The Last Straw"
 msgstr "壓垮駱駝的稻草"
 
 #. [unit]: type=Necromancer, id=Muff Jal
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:54
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:58
 msgid "Muff Jal"
 msgstr "姆夫 加爾"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:80
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:89
 msgid "This is it."
 msgstr "就是他。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:85
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:121
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:94
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:131
 msgid "Deven?"
 msgstr "戴文？"
 
 #. [message]: speaker=Muff Jal
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:90
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:99
 msgid ""
 "That is no longer my name. I am more powerful then you could ever become. I "
 "am the master. Muhhhaaa! We will crush you!"
@@ -141,32 +141,32 @@ msgstr ""
 "那不再是我的名字了，我現在無比強大－你們夢寐以求的，我是大魔法師了，哈哈哈哈"
 "哈哈！我將碾碎你們！"
 
-#. [objective]: condition=win                    
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:97
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:104
+#. [objective]: condition=win
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:106
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
 msgid "Defeat the enemy leader"
 msgstr "擊敗敵人首領"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:128
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:137
 msgid "Deven? What happened?"
 msgstr "戴文？你怎麼了？"
 
 #. [message]: speaker=narrator
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:134
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:143
 msgid "And so passes Deven, once a mage."
 msgstr "死去的戴文，曾經是個法師。"
 
 #. [message]: speaker=narrator
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:140
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:149
 msgid ""
 "And he stood as a testament for that group of mages of what happens when one "
 "meddles with the dark arts..."
 msgstr "但他是一個沾染了黑暗魔法的法師..."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:187
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:215
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:196
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:226
 msgid "Noooo, they have overrun us!"
 msgstr "不~~~！他們淹沒了我們！"
 
@@ -185,30 +185,30 @@ msgid ""
 msgstr "在戴文神秘失蹤兩個月後，不死族把目標對準了這個魔法城市......"
 
 #. [unit]: type=Soulless, id=Marth
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:66
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:73
 msgid "Marth"
 msgstr "馬斯"
 
 #. [unit]: type=Bone Shooter, id=Skal-Ka
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:76
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:80
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:83
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:91
 msgid "Skal-Ka"
 msgstr "斯卡爾-卡"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:88
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:95
 msgid ""
 "Look, Undead are attacking from the south, I must hold them off for as long "
 "as I can."
 msgstr "看，不死族正從南方進攻，我得盡力拖住它們。"
 
-#. [objective]: condition=win                    
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:95
+#. [objective]: condition=win
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:102
 msgid "Resist until the end of the turns"
 msgstr "堅守到回合結束"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:113
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:120
 msgid ""
 "We must escape, there is a village to the north, perhaps they can help us."
 msgstr "我們必須撤退，北方有個村莊，也許他們可以幫助我們。"
@@ -226,54 +226,54 @@ msgid ""
 msgstr "瑞恩和其他魔法師們在不死族的追趕下向北部村莊進發。"
 
 #. [unit]: type=Swordsman, id=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:70
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:76
 msgid "Ben"
 msgstr "本"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:92
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:103
 msgid "Our home was ransacked by the undead, and now they're following us."
 msgstr "我們的家園被不死族洗劫了，現在它們又來追我們了。"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:97
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:108
 msgid "We will help you defeat them."
 msgstr "我們來幫你們擊敗他們。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:129
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:140
 msgid "They're gone."
 msgstr "他們走了。"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:134
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:145
 msgid ""
 "No, the undead have attacked here as well, and they seem to be coming from "
 "the north."
 msgstr "不，不死族也攻擊這裡，他們好像來自北方。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:139
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:150
 msgid "For how long have they been attacking?"
 msgstr "他們進攻多久了？"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:144
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:155
 msgid "Just recently."
 msgstr "就在前不久。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:149
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:160
 msgid "Hmmm..."
 msgstr "嗯......"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:154
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:165
 msgid "We will go north with you to defeat them."
 msgstr "我們準備和你一起去北方和它們戰斗。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:159
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:170
 msgid "Thank you."
 msgstr "謝謝。"
 
@@ -300,27 +300,27 @@ msgid "Ryan"
 msgstr "賴安"
 
 #. [unit]: type=Dark Adept, id=Deven
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:60
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:65
 msgid "Deven"
 msgstr "德文"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:72
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:82
 msgid "Hello Deven."
 msgstr "嗨，戴文。"
 
 #. [message]: speaker=Deven
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:77
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:87
 msgid "Hehehehee..."
 msgstr "哈哈哈哈..."
 
 #. [message]: speaker=narrator
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:116
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:126
 msgid "Suddenly Deven vanished."
 msgstr "戴文突然消失了。"
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:126
+#: Attack_of_the_Undead/scenarios/1_The_Student.cfg:136
 msgid "What happened?"
 msgstr "怎麼回事？"
 
@@ -335,9 +335,39 @@ msgid "Play as a mage to protect your city from the undead."
 msgstr "扮演一位法師保護您的城市免受不死族的襲擊。"
 
 #. [campaign]: id=Attack_Of_The_Undead
-#: Attack_of_the_Undead/_main.cfg:17
+#: Attack_of_the_Undead/_main.cfg:18
 msgid "(Novice level, 4 scenarios.)"
 msgstr "（初學者等級，五個任務）"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:20
+msgid "Mage"
+msgstr "法師"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:20
+msgid "Easy"
+msgstr "簡單"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:21
+msgid "Red Mage"
+msgstr "紅袍法師"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:21
+msgid "Normal"
+msgstr "正常"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:22
+msgid "Arch Mage"
+msgstr "法師長"
+
+#. [campaign]: id=Attack_Of_The_Undead
+#: Attack_of_the_Undead/_main.cfg:22
+msgid "Challenging"
+msgstr "挑戰"
 
 #. [about]
 #: Attack_of_the_Undead/about.cfg:3
@@ -345,9 +375,11 @@ msgid "Campaign Design"
 msgstr "戰役設計"
 
 #. [about]
-#: Attack_of_the_Undead/about.cfg:9
+#: Attack_of_the_Undead/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "當前維護者"
+
+#. [about]
+#: Attack_of_the_Undead/about.cfg:17
 msgid "Translation"
 msgstr "翻譯"
-
-#~ msgid "Current Maintainer"
-#~ msgstr "當前維護者"
