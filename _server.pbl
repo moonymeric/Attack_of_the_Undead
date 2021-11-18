@@ -1,15 +1,126 @@
-#textdomain wesnoth-aotu
-title= _"Attack of the Undead"
+title="Attack of the Undead"
 type="campaign"
 icon="units/human-magi/red-mage.png~RC(magenta>red)"
 version="1.3.5"
 author="wsultzbach"
 passphrase=
 email=
-description= _"Play as a mage to protect your city from the undead." + "
+description="Play as a mage to protect your city from the undead." + "
 
-" + _"(Novice level, 4 scenarios.)"
+" + "(Novice level, 4 scenarios.)"
 
 [feedback]
-    topic_id=14570
+    topic_id="14570"
 [/feedback]
+
+[translation]
+    language="cs"
+    title="Útok Nemrtvých"
+    description="Hraj jako mág a ochraň své město před nemrtvými." + "
+
+" + "(Obtížnost: začátečník, 4 scénářů)"
+[/translation]
+
+[translation]
+    language="da"
+    title="De udødes angreb"
+    description="Spil som en troldmand og beskyt din by mod de udøde." + "
+
+" + "(Let niveau, 4 scenarier.)"
+[/translation]
+
+[translation]
+    language="de"
+    title="Angriff der Untoten"
+    description="Spiel als ein Magier und schütze deine Stadt vor den Untoten." + "
+
+" + "(Einstufung: Einsteiger, 4 Szenarien)"
+[/translation]
+
+[translation]
+    language="es"
+    title="Ataque de los No Muertos"
+    description="Juega como un mago para proteger tu ciudad de los muertos vivientes." + "
+
+" + "(Nivel principiante, 4 escenarios.)"
+[/translation]
+
+[translation]
+    language="fi"
+    title="Epäkuolleiden hyökkäys"
+    description="Pelaa maagina suojellaksesi kaupunkiasi epäkuolleilta." + "
+
+" + "(Aloittelijataso, 4 skenaariota.)"
+[/translation]
+
+[translation]
+    language="fr"
+    title="L'Attaque des morts-vivants"
+    description="Incarnez un mage qui protège sa ville des morts-vivants." + "
+
+" + "(Niveau débutant, 4 scénarios.)"
+[/translation]
+
+[translation]
+    language="hu"
+    title="Az élőholtak támadása"
+    description="Egy mágussal az élen védd meg a városod a támadó élőholtaktól." + "
+
+" + "(Kezdő szint, 4 pálya.)"
+[/translation]
+
+[translation]
+    language="it"
+    title="L'attacco dei non-morti"
+    description="Mettiti nei panni di un mago che deve proteggere la propria città dai non-morti." + "
+
+" + "(livello debuttante, 4 scenari.)"
+[/translation]
+
+[translation]
+    language="nl"
+    title="Aanval van de Ondoden"
+    description="Speel als een Magiër en bescherm je stad van de Ondoden." + "
+
+" + "(Beginnersniveau, 4 scenarios.)"
+[/translation]
+
+[translation]
+    language="pl"
+    title="Atak nieumarłych"
+    description="Zagraj magiem by obronić swoje miasto przed nieumarłymi" + "
+
+" + "(Pozion początkujący, 4 scenariusze)"
+[/translation]
+
+[translation]
+    language="sk"
+    title="Útok nemŕtvych"
+    description="Hraj v úlohe mága, ktorý ochraňuje svoje mesto pred hordami nemŕtvych." + "
+
+" + "(Pre začiatočníkov, 4 scén.)"
+[/translation]
+
+[translation]
+    language="tr"
+    title="Yarı Ölülerin Saldırısı"
+    description="Şehrini yarı ölülerden korumak isteyen bir büyücüsün." + "
+
+" + "(Acemi Düzeyi, 4 senaryo.)"
+[/translation]
+
+[translation]
+    language="zh_CN"
+    title="亡灵的袭击"
+    description="作一位魔法师保护你的城市免受亡灵的袭击" + "
+
+" + "（初學者等級，五個任務）"
+[/translation]
+
+[translation]
+    language="zh_TW"
+    title="不死族的襲擊"
+    description="扮演一位法師保護您的城市免受不死族的襲擊。" + "
+
+" + "（初學者等級，五個任務）"
+[/translation]
