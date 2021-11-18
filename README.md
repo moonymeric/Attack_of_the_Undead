@@ -1,5 +1,7 @@
-# Attack of the Undead
+Attack of the Undead
+====================
 
-> "Play as a mage to protect your city from the undead."
+This is a port of Walker Sultzbach's campaign for the turn-based strategy game [The Battle for Wesnoth]. His original version can be found on the [1.4 add-ons server].
 
-Port of wsultzbach's campaign on the Wesnoth 1.4 [add-ons server](add-ons.wesnoth.org/1.4/).
+[The Battle for Wesnoth]: <https://www.wesnoth.org>
+[1.4 add-ons server]: <https://add-ons.wesnoth.org/1.4/>
